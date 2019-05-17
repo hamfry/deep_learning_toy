@@ -12,10 +12,11 @@ keras,
 tqdm,
 h5py.
 
-Create the following folders in the root you are storing network.py and data_load.py files:
-models: for the trained model to be saved,
+Create the following folders (in the root you are storing network.py and data_load.py files):
 
-data: for the MNIST dataset to be extracted into.
+'models' for the trained model to be saved,
+
+'data' for the MNIST dataset to be extracted into.
 
 Once done, run the code using ```python network.py``` from the terminal.
 
