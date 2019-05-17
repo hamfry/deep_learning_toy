@@ -16,5 +16,5 @@ Create the following folders in the root you are storing network.py and data_loa
 models: for the trained model to be saved
 data: for the mnist dataset to be extracted into
 
-Once done, run the code using python network.py from the terminal.
+Once done, run the code using ```python network.py``` from the terminal.
 
